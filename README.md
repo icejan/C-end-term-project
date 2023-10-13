@@ -54,7 +54,7 @@ resistance in kilo-ohms. Example is shown below.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Credits
-João Paulo Dos Santos Cruz 
-Kevin Pham
-Josstina Beshay
-Julibeb Hussain
+* João Paulo Dos Santos Cruz 
+* Kevin Pham
+* Josstina Beshay
+* Julibeb Hussain
